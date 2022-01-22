@@ -204,9 +204,9 @@ body{
     height: 1.5vh;
     justify-content: center;
     background-color: rgb(50,50,50);
-    color: white;
 }
 .footer h3{
-    font-size: 1vh;
-    font-weight: 300;
+    font-size: 0.7vh;
+    font-weight: 600;
+    color: coral;
 }
